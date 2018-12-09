@@ -10,7 +10,7 @@
     <header>
         <nav>
             <div class="nav-wrapper teal blue-grey darken-4">
-               <div class="row"><strong><span style="font-size:32px; margin-left:1.5%;">   ListBooks </span></strong>   - プロがおすすめした本をご紹介します -</div>
+               <div class="row"><strong><span style="font-size:32px; margin-left:1.5%;">   ListBooks </span></strong>   - プロがおすすめした本をご紹介してます -</div>
             </div>
         </nav>
     </header>
